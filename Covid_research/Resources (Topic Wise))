@@ -1,0 +1,12 @@
+**************************************************
+
+Resources regarding TF-IDF and Word Vectoriser
+
+- https://www.technoarete.org/common_abstract/pdf/IJERCSE/v5/i4/Ext_79240.pdf (research paper)
+- https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+- https://towardsdatascience.com/getting-started-with-text-vectorization-2f2efbec6685
+- https://www.machinelearningplus.com/nlp/cosine-similarity/ (cosine similiarity)
+- https://aiaspirant.com/bag-of-words/
+- https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794 (regarding differences between text classification techniques)
+
+**************************************************
