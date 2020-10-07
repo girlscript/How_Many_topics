@@ -28,6 +28,11 @@ Understanding LDA from basic to advanced:
 
 ******************************************************
 
+Understanding LDA from basic to advanced:
+- https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+
+******************************************************
+
 Working of the LDA algorithm (mainly code and mathematics):
 - https://youtu.be/T05t-SqKArY
 - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#:~:text=Topic%20Modeling%20with%20Gensim%20(Python)&text=Topic%20Modeling%20is%20a%20technique,in%20the%20Python's%20Gensim%20package.
