@@ -13,6 +13,7 @@ Resources regarding TF-IDF and Word Vectoriser
 Resources for finding coherence Value
 
 -https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python (LSA)
+-https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/ (LDA)
 -https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0 (LDA)
 
 **************************************************
