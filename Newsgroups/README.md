@@ -37,7 +37,7 @@ LSA implemtation gave us promising results with the value of k between **25 to 3
   ### LDA Implementation
 LDA implementation gave us good results:<br/>
 * Perplexity = -8.602970553126184
-* Coherence Score = 0.42101578013237306
+* Coherence Score = 0.5578795935507215 
 
 ---
 ## REFERENCES
@@ -49,4 +49,11 @@ LDA implementation gave us good results:<br/>
   * https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
   * https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
   
+  ---
+* LDA model:
+  ---
+  * https://www.tutorialspoint.com/gensim/gensim_creating_lda_mallet_model.htm
+  * https://programminghistorian.org/en/lessons/topic-modeling-and-mallet
+  * https://medium.com/analytics-vidhya/how-to-perform-topic-modeling-using-mallet-abc43916560f
+
   ---
