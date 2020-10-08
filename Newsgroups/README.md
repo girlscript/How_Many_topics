@@ -41,4 +41,12 @@ LDA implementation gave us good results:<br/>
 
 ---
 ## REFERENCES
-* To Learn model:
+* LSA model:
+  ---
+  * https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
+  * https://www.analyticssteps.com/blogs/introduction-latent-semantic-analysis-lsa-and-latent-dirichlet-allocation-lda
+  * https://towardsdatascience.com/latent-semantic-analysis-sentiment-classification-with-python-5f657346f6a3
+  * https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+  * https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
+  
+  ---
