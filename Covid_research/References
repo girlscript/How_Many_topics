@@ -1,0 +1,65 @@
+******************************************************
+
+Drive link to all the datasets used in the project:
+- https://drive.google.com/drive/folders/1Cxxn8qPx4RwZi0jAqbo67XTN13sXuHEz?usp=sharing
+
+******************************************************
+
+Google doc regarding all the results and conclusions made:
+- https://docs.google.com/document/d/1g6U86VO9ffv9M2yU8uz2INr77U9YFSxMQseBHqiryoQ/edit?usp=sharing
+
+******************************************************
+
+Understanding the basics of NLP and Topic Modelling:
+- https://www.kdnuggets.com/2019/11/understanding-nlp-topic-modeling-part-1.html
+- https://monkeylearn.com/blog/introduction-to-topic-modeling/
+- https://www.youtube.com/watch?v=P8wvOge6Q20&feature=youtu.be
+- https://cbail.github.io/textasdata/topic-modeling/rmarkdown/Topic_Modeling.html
+- https://www.youtube.com/watch?v=DDq3OVp9dNA
+- https://www.kdnuggets.com/2019/04/text-preprocessing-nlp-machine-learning.html#:~:text=Text%20normalization%20is%20the%20process,%E2%80%9D%20to%20just%20%E2%80%9Cstopwords%E2%80%9D.
+- https://link.springer.com/article/10.1186/s13673-019-0192-7 (An article which especially deals with classification of Research Papers)
+
+******************************************************
+
+Understanding LDA from basic to advanced:
+- https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+- https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+- https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
+
+******************************************************
+
+Understanding LSA from basic to advanced:
+- https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
+- https://youtu.be/OvzJiur55vo
+
+******************************************************
+
+Working of the LDA algorithm (mainly code and mathematics):
+- https://youtu.be/T05t-SqKArY
+- https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#:~:text=Topic%20Modeling%20with%20Gensim%20(Python)&text=Topic%20Modeling%20is%20a%20technique,in%20the%20Python's%20Gensim%20package.
+- https://www.kdnuggets.com/2019/09/overview-topics-extraction-python-latent-dirichlet-allocation.html
+- https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
+- https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+- Main documentation of LDA class in gensim package: https://radimrehurek.com/gensim/models/ldamodel.html 
+
+******************************************************
+
+Research papers related to Topic Modelling, NLP and their algorithms:
+- http://derekgreene.com/papers/greene14topics.pdf (main)
+- https://ieeexplore.ieee.org/document/8250563
+- https://www.cs.cornell.edu/~laurejt/papers/authorless-tms-2018.pdf
+- https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+- https://www.youtube.com/watch?v=VTweNS8GiWI&t=2012s (Explanation for the research paper above based on LDA)
+- http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf
+
+******************************************************
+
+Understanding and related resources about the libraries used:
+- Gensim: https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-1/
+
+******************************************************
+
+Other Topic Modelling algorithms & resources on LDA and LSA:
+- https://github.com/ddangelov/Top2Vec (top2vec algorithm)
+- https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
+- https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
