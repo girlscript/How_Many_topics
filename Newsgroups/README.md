@@ -57,3 +57,6 @@ LDA implementation gave us good results:<br/>
   * https://medium.com/analytics-vidhya/how-to-perform-topic-modeling-using-mallet-abc43916560f
 
   ---
+ * Topic Modeling:
+ ---
+ * http://derekgreene.com/papers/greene14topics.pdf
