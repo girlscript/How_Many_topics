@@ -59,7 +59,7 @@ The code sample present in this repository will not work on your machine with si
     
    <td align="center"><a href="https://www.linkedin.com/in/serena-raju-166022166/"><img src="https://avatars1.githubusercontent.com/u/53613655?s=400&u=a1824a875c74fa076022041f1784e8ece9057882&v=4" width="150px;" alt="https://github.com/serenaraju"/><br /><sub><b>Serena Raju</b></sub></a><br /><br /></td>
 
-  <td align="center"><a href="https://www.linkedin.com/in/r-divya/"><img src="https://avatars0.githubusercontent.com/u/34444944?s=400&u=f7c11c4ed869e5a858aa2a3ed9fce71ee5c37308&v=4"/><br /><sub><b>Divya R.</b></sub></a><br /><br /></td>
+  <td align="center"><a href="https://www.linkedin.com/in/r-divya/"><img src="https://avatars0.githubusercontent.com/u/34444944?s=400&u=f7c11c4ed869e5a858aa2a3ed9fce71ee5c37308&v=4"width="150px;" alt="https://github.com/partha2000"/>><br /><sub><b>Divya R.</b></sub></a><br /><br /></td>
 
  <td align="center"><a href="https://www.linkedin.com/in/bhanvi-menghani/"><img src="https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/Bhanvi.jpg" width="150px;" alt="https://github.com/bhanvimenghani"/><br /><sub><b>Bhanvi Menghani</b></sub></a><br /></td> </tr>
 </table>
