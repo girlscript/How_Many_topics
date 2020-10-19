@@ -52,7 +52,7 @@ Working of the LDA algorithm (mainly code and mathematics):
 - https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
 - https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
 - Main documentation of LDA class in gensim package: https://radimrehurek.com/gensim/models/ldamodel.html 
-
+- https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ (LDA using scipy library)
 ******************************************************
 
 Research papers related to Topic Modelling, NLP and their algorithms:
