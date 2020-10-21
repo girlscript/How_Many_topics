@@ -66,6 +66,8 @@ Research papers related to Topic Modelling, NLP and their algorithms:
 - https://www.youtube.com/watch?v=VTweNS8GiWI&t=2012s (Explanation for the research paper above based on LDA)
 - http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf
 - http://dirichlet.net/pdf/wallach09evaluation.pdf (Evaluation of LDA Models)
+- http://people.csail.mit.edu/dsontag/courses/pgm12/slides/BleiNgJordan2003.pdf (MIT Research paper on LDA)
+
 ******************************************************
 
 Understanding and related resources about the libraries used:
