@@ -47,6 +47,7 @@ Understanding LSA from basic to advanced:
 ******************************************************
 
 Working of the LDA algorithm (mainly code and mathematics):
+
 - https://youtu.be/T05t-SqKArY
 - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#:~:text=Topic%20Modeling%20with%20Gensim%20(Python)&text=Topic%20Modeling%20is%20a%20technique,in%20the%20Python's%20Gensim%20package.
 - https://www.kdnuggets.com/2019/09/overview-topics-extraction-python-latent-dirichlet-allocation.html
@@ -55,6 +56,7 @@ Working of the LDA algorithm (mainly code and mathematics):
 - Main documentation of LDA class in gensim package: https://radimrehurek.com/gensim/models/ldamodel.html 
 - https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ (LDA using scikit-learn library)
 - http://derekgreene.com/slides/topic-modelling-with-scikitlearn.pdf (LDA using scikit-learn library in depth)
+- https://youtu.be/DWJYZq_fQ2A (Simple explanation of Maths behind LDA)
 
 ******************************************************
 
