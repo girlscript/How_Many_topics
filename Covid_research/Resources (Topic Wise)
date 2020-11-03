@@ -16,6 +16,7 @@ Resources for finding coherence Value
 -https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python (LSA)
 -https://datascienceplus.com/evaluation-of-topic-modeling-topic-coherence/ (LDA)
 -https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0 (LDA)
+- https://nbviewer.jupyter.org/github/dsquareindia/gensim/blob/280375fe14adea67ce6384ba7eabf362b05e6029/docs/notebooks/topic_coherence_tutorial.ipynb#topic=0&lambda=1&term=
 
 **************************************************
 
