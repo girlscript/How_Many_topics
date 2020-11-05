@@ -4,10 +4,5 @@ We have first tried *LDA* on the whole dataset for a random value of k(=10 here)
 For the **most optimum K** found,we have represented the topics in terms of their wordclouds  
 Then we have proceeded to **get random samples of the dataset(random subset containing only 80% of data from dataset) EACH** and for different values of K,proceeded to plot a graph of coherance score for each sample of the dataset. This final step has been done to find the optimum value of K that really fits the dataset in actuality. 
 Next task would be to implement the research paper provided  
-The dataset used:https://github.com/tdhopper/topic-modeling-datasets/tree/master/data/raw/Nematode%20biology%20abstracts \
-References For paper-1: https://brilliant.org/wiki/hungarian-matching/ \
-https://numpy.org/doc/stable/reference/maskedarray.html \
-https://youtu.be/KarLMGILAjc \
-https://youtu.be/WmPX0XbKaCc \
-https://youtu.be/BUGIhEecipE
+The dataset used:https://github.com/tdhopper/topic-modeling-datasets/tree/master/data/raw/Nematode%20biology%20abstracts 
 
