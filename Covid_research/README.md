@@ -6,3 +6,6 @@
 - The link to the google doc containing conclusions and results: https://docs.google.com/document/d/1g6U86VO9ffv9M2yU8uz2INr77U9YFSxMQseBHqiryoQ/edit?usp=sharing
 - The link to the google doc containing results for Abstract Dataset: https://docs.google.com/document/d/1zz9NUw2jblSA1m4DR1r_KopZLE7xmDBmQskixMvIpU8/edit?usp=sharing
 
+#### Explanation of all the parameters used in detail
+- https://radimrehurek.com/gensim/models/ldamodel.html
+
