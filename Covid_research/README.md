@@ -6,6 +6,7 @@
 - The link to the google doc containing conclusions and results: https://docs.google.com/document/d/1g6U86VO9ffv9M2yU8uz2INr77U9YFSxMQseBHqiryoQ/edit?usp=sharing
 - The link to the google doc containing results for Abstract Dataset: https://docs.google.com/document/d/1zz9NUw2jblSA1m4DR1r_KopZLE7xmDBmQskixMvIpU8/edit?usp=sharing
 - The link to the google doc containing results of applying the same to Blog Authorship: https://docs.google.com/document/d/1I7apxw_fnicykQ5NrGfsvGFl-L6XGhjwrI9U7q0I6Ik/edit?usp=sharing
+- The link to the google doc containing results for Newsgroup Dataset: https://docs.google.com/document/d/1kVSQVJW75tDolT2aLGbtSWb6FyJ_yTqyuNBQ3k5gCk4/edit?usp=sharing
 
 #### Explanation of all the parameters used in detail
 - https://radimrehurek.com/gensim/models/ldamodel.html
