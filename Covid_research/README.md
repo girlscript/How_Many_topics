@@ -1,4 +1,6 @@
-### COVID-19 research papers
+## COVID-19 Research Paper Group:
+
+### Link to the dataset: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 - The dataset chosen here consists of over 2,50,000 (Title of paper, Abstract of paper) papers published and is available on Kaggle
 - LDA and LSA models are being implemented on the dataset and the results are being recorded
