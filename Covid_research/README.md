@@ -11,7 +11,7 @@
 
 >## &nbsp; PROJECT DESCRIPTION
 
-Topic modelling is an unsupervised machine learning technique which is used to classify a set of documents, detecting words and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents. To delve deep into the same, we implemented Topic Modeling algorithms mainly on the **Title and abstract COVID-19 Dataset** and tested the process on several other datasets.
+Topic modelling is an unsupervised machine learning technique which is used to classify a set of documents, detecting words and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents. To delve deep into the same, we implemented Topic Modeling algorithms mainly on the **Title and abstract COVID-19 Dataset** and tested the process on several other datasets like **Yelp Reviews, Medium Dataset, Blog Authorship Dataset, etc**.
 
 
 ### Link to the dataset: 
