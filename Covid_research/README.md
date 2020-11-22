@@ -21,8 +21,8 @@
 * [Rashi Singh](https://github.com/RASHI3004)
 * [Nagasuruthika N](https://github.com/Nagasuruthika)
 
-
-
+## License:
+All rights reserved. Licensed under the MIT License.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
