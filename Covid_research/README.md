@@ -4,11 +4,13 @@
 ## COVID-19 Research Paper Group:
 
 >## &nbsp; PROJECT INTRODUCTION
-*A research project in the field of Topic Modeling to find out the best suited Number of topics (k) which fits almost all the datasets.*
+
+**A research project in the field of Topic Modeling to find out the best suited Number of topics (k) which fits almost all the datasets.**
 
 ![Image of the Wordcloud](https://github.com/girlscript/How_Many_topics/blob/master/Covid_research/wordcloud.PNG)
 
 >## &nbsp; PROJECT DESCRIPTION
+
 Topic modelling is an unsupervised machine learning technique which is used to classify a set of documents, detecting words and phrase patterns within them, and automatically clustering word groups and similar expressions that best characterize a set of documents. To delve deep into the same, we implemented Topic Modeling algorithms mainly on the **Title and abstract COVID-19 Dataset** and tested the process on several other datasets.
 
 
