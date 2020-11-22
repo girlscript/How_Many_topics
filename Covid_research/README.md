@@ -1,4 +1,6 @@
-## COVID-19 Research Paper Group:
+# COVID-19 Research Paper Group:
+
+
 
 ### Link to the dataset: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
@@ -10,6 +12,14 @@
 - The link to the google doc containing results of applying the same to Blog Authorship: https://docs.google.com/document/d/1I7apxw_fnicykQ5NrGfsvGFl-L6XGhjwrI9U7q0I6Ik/edit?usp=sharing
 - The link to the google doc containing results for Newsgroup Dataset: https://docs.google.com/document/d/1kVSQVJW75tDolT2aLGbtSWb6FyJ_yTqyuNBQ3k5gCk4/edit?usp=sharing
 
-#### Explanation of all the parameters used in detail
-- https://radimrehurek.com/gensim/models/ldamodel.html
+## Contributors:
+* [Khushboo Gupta](https://github.com/khushboogupta13)
+* [Namya LG](https://github.com/Namyalg)
+* [Rashi Singh](https://github.com/RASHI3004)
+* [Nagasuruthika N](https://github.com/Nagasuruthika)
 
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
