@@ -1,5 +1,8 @@
 # COVID-19 Research Paper Group:
 
+>## &nbsp; PROJECT DESCRIPTION
+**A research project in the field of Topic Modeling to find out the best suited Number of topics (k) which fits almost all the datasets.**.
+
 
 
 ### Link to the dataset: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
