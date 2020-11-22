@@ -1,5 +1,5 @@
 # Girlscript Summer of Code (Extended) 2020 
-![Image](girlscript.PNG)
+![Image](assets/girlscript.PNG)
 
 ## COVID-19 Research Paper Group:
 
@@ -7,7 +7,7 @@
 
 **A research project in the field of Topic Modeling to find out the best suited Number of topics (k) which fits almost all the datasets.**
 
-![Image of the Wordcloud](https://github.com/girlscript/How_Many_topics/blob/master/Covid_research/wordcloud.PNG)
+![Image of the Wordcloud](assets/wordcloud.PNG)
 
 >## &nbsp; PROJECT DESCRIPTION
 
